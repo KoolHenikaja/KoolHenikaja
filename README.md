@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi I'm Koloina Elie 👋
 
 <!--
 **KoolHenikaja/KoolHenikaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
--->https://github.com/KoolHenikaja
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" />
 
 
 # Bienvenue sur mon profil 👋
