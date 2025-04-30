@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
--->](https://github.com/KoolHenikaja
+-->https://github.com/KoolHenikaja
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150"/>
 
 # Bienvenue sur mon profil 👋
