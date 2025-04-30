@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **KoolHenikaja/KoolHenikaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: ...
--->
+-->](https://github.com/KoolHenikaja
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150"/>
+
+# Bienvenue sur mon profil 👋
+
+🇲🇬 Développeur passionné par **Frontend Dev** et les technologies **open-source**.
+
+```bash
+rg -i "coding" ~/passion.txt
+)
