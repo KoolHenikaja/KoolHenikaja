@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->https://github.com/KoolHenikaja
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="150"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
 
 # Bienvenue sur mon profil 👋
 
