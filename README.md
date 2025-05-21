@@ -2,6 +2,8 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
+<a href="https://app.daily.dev/koloinaelie"><img src="https://api.daily.dev/devcards/v2/mxjm2X8EwOdOPCDZNmuGz.png?r=owo" width="356" alt="Koloina Elie's Dev Card"/></a>
+
 # Rah_Kool246 👋
 
 🇲🇬 Développeur passionné par **Frontend Dev** et les technologies **open-source**.
