@@ -8,5 +8,4 @@
 
 ```bash
 rg -i "coding" ~/passion.txt
-npm create vite@latest brain
 
